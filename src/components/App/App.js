@@ -7,6 +7,8 @@ import Hero from '../Hero';
 import MainContent from '../MainContent';
 import Footer from '../Footer';
 
+import "@fontsource/inter/variable-full.css";
+
 const App = () => {
   return (
     <>
